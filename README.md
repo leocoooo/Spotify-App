@@ -9,4 +9,6 @@ Use of data extracted from the Spotify streaming platform to create a graphical 
 Part 1: Descriptive analysis of databases and visualisation  
 Part 2: Content search
 
-[Interface graphique](https://github.com/leocoooo/Spotify-App/blob/main/Image%20interface.png)
+The other scripts/images are used to create the interface. The "main (interface).py" script is used to obtain the interface. 
+
+![Interface graphique](https://github.com/leocoooo/Spotify-App/blob/main/Image%20interface.png)
